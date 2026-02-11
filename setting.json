@@ -1,5 +1,5 @@
 {
     "liveServer.settings.port": 5500,
-    "liveServer.settings.root": "0.0.0.0"
+    "liveServer.settings.root": "localhost"
 
 }
